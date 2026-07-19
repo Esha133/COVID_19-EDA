@@ -1,7 +1,7 @@
 
-#  COVID-19 Exploratory Data Analysis (EDA) - India
+#  COVID-19 Exploratory Data Analysis (EDA) - India.
 
-##  Project Overview.
+##  Project Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on a COVID-19 dataset for India.
 The aim is to understand the **spread of COVID-19 across Indian states**, including trends in **confirmed cases, recoveries, and deaths**, using basic data analysis and visualization techniques.
