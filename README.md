@@ -1,5 +1,5 @@
 
-#  COVID-19 Exploratory Data Analysis (EDA) - India.
+#  COVID-19 Exploratory Data Analysis (EDA) - India
 
 ##  Project Overview
 
